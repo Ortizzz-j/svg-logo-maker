@@ -14,6 +14,8 @@
 
 ## video of app 
 
+ Did a seperate video of the tests being ran.
+ [Test Video](https://drive.google.com/file/d/1DkJG5RtVwRC_hHW1BMcTtOm4GBKmS-63/view)
  [Video](https://drive.google.com/file/d/1UYCJ37hN6ECIWo7YidMiWymCio_0zcBz/view)
 
 ## contributors
