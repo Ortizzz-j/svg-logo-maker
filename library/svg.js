@@ -18,3 +18,6 @@ class SVG {
 }
 
 module.exports = SVG;
+
+
+// this code constructs the logo

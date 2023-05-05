@@ -36,3 +36,4 @@ function writeToFile(fileName, data){
 }
 
 
+// The code gets run and file created with the index. Only thing would be to make the file come out with a unique name for each logo so they dont get duplicated.
