@@ -16,13 +16,13 @@ class Triangle extends Shape{
 
 class Circle extends Shape{
     render(){
-        `<circle cx="150" cy="100" r="80" fill="${this.color}" />`
+        return `<circle cx="150" cy="100" r="80" fill="${this.color}"/>`
     }
 };
 
 class Square extends Shape{
     render(){
-        `<rect x="45" y="30" width = "200" height = "150" style = "fill:${this.color}"/>`
+        return `<rect x="45" y="30" width="200" height="150" fill="${this.color}"/>`
     }
 }
 

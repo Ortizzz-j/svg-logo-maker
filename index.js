@@ -15,10 +15,10 @@ function init(){
             if(data.shape === 'Triangle'){
                 shape = new Triangle()
             }
-            if(data.shape === 'Circle'){
+            else if(data.shape === 'Circle'){
                 shape = new Circle()
             }
-            if(data.shape === 'Square'){
+            else if(data.shape === 'Square'){
                 shape = new Square()
             }
             shape.setColor(data.color)
